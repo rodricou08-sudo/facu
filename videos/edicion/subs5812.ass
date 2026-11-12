@@ -1,0 +1,250 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,Montserrat Black,98,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,0,0,0,0,100,100,0,0,1,8,3,2,50,50,560,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.66,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}NO TENÉS {\c&H00D4FF&}AMIGOS{\c&HFFFFFF&}
+Dialogue: 0,0:00:00.66,0:00:01.16,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}SI ESTÁS {\c&H00D4FF&}SOLO{\c&HFFFFFF&}
+Dialogue: 0,0:00:01.16,0:00:01.84,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}PORQUE SOS UN
+Dialogue: 0,0:00:01.84,0:00:02.58,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}CHOTO HACIENDO
+Dialogue: 0,0:00:02.58,0:00:03.56,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}{\c&H00D4FF&}MATEMÁTICAS{\c&HFFFFFF&}
+Dialogue: 0,0:00:03.56,0:00:03.90,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}ASÍ COMO
+Dialogue: 0,0:00:03.90,0:00:04.34,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}ESCUCHASTE
+Dialogue: 0,0:00:04.34,0:00:04.66,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}Y AHORA ME
+Dialogue: 0,0:00:04.66,0:00:05.02,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}VOY A EXPLAYAR
+Dialogue: 0,0:00:05.02,0:00:05.38,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}PORQUE PENSÁS
+Dialogue: 0,0:00:05.38,0:00:05.96,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}QUE ESTOY LOCO
+Dialogue: 0,0:00:05.96,0:00:06.22,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}NO ES QUE
+Dialogue: 0,0:00:06.22,0:00:06.68,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}SOS GORDO
+Dialogue: 0,0:00:06.68,0:00:06.92,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}NO ES QUE
+Dialogue: 0,0:00:06.92,0:00:07.56,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}SOS FEO
+Dialogue: 0,0:00:07.56,0:00:08.12,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}NO ES QUE
+Dialogue: 0,0:00:08.12,0:00:08.40,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}NO
+Dialogue: 0,0:00:08.40,0:00:08.76,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}ES LO
+Dialogue: 0,0:00:08.76,0:00:09.64,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}SIGUIENTE
+Dialogue: 0,0:00:09.64,0:00:10.20,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}HAY UN ESTUDIO
+Dialogue: 0,0:00:10.20,0:00:10.50,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}QUE HIZO LA
+Dialogue: 0,0:00:10.50,0:00:10.88,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}UNIVERSIDAD DE
+Dialogue: 0,0:00:10.88,0:00:11.74,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}{\c&H00D4FF&}KANSAS{\c&HFFFFFF&} EN {\c&H00D4FF&}2018{\c&HFFFFFF&}
+Dialogue: 0,0:00:11.74,0:00:12.54,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}QUE DICE QUE
+Dialogue: 0,0:00:12.54,0:00:13.68,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}PARA PASAR DE
+Dialogue: 0,0:00:13.68,0:00:14.52,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}SER CONOCIDO
+Dialogue: 0,0:00:14.52,0:00:15.50,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}A {\c&H00D4FF&}AMIGO{\c&HFFFFFF&} CASUAL
+Dialogue: 0,0:00:15.50,0:00:16.06,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}NECESITÁS PASAR
+Dialogue: 0,0:00:16.06,0:00:16.94,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}{\c&H00D4FF&}50{\c&HFFFFFF&} {\c&H00D4FF&}HORAS{\c&HFFFFFF&} DE
+Dialogue: 0,0:00:16.94,0:00:17.44,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}{\c&H00D4FF&}CALIDAD{\c&HFFFFFF&} CON ESA
+Dialogue: 0,0:00:17.44,0:00:18.22,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}PERSONA
+Dialogue: 0,0:00:18.22,0:00:18.50,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}NO {\c&H00D4FF&}HORAS{\c&HFFFFFF&}
+Dialogue: 0,0:00:18.50,0:00:19.32,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}LABURANDO
+Dialogue: 0,0:00:19.32,0:00:19.62,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}NO {\c&H00D4FF&}HORAS{\c&HFFFFFF&}
+Dialogue: 0,0:00:19.62,0:00:19.94,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}COMPARTIENDO
+Dialogue: 0,0:00:19.94,0:00:20.52,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}MISMO ESPACIO
+Dialogue: 0,0:00:20.52,0:00:21.28,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}{\c&H00D4FF&}50{\c&HFFFFFF&} {\c&H00D4FF&}HORAS{\c&HFFFFFF&} DE
+Dialogue: 0,0:00:21.28,0:00:21.84,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}{\c&H00D4FF&}CALIDAD{\c&HFFFFFF&}
+Dialogue: 0,0:00:21.84,0:00:22.14,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}COMPARTIENDO
+Dialogue: 0,0:00:22.14,0:00:23.14,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}UN MOMENTO
+Dialogue: 0,0:00:23.26,0:00:23.90,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}BOLUDEANDO
+Dialogue: 0,0:00:23.90,0:00:24.38,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}HABLANDO
+Dialogue: 0,0:00:24.38,0:00:24.90,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}LO QUE SEA
+Dialogue: 0,0:00:24.90,0:00:26.02,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}NECESITÁS {\c&H00D4FF&}90{\c&HFFFFFF&}
+Dialogue: 0,0:00:26.02,0:00:26.84,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}{\c&H00D4FF&}HORAS{\c&HFFFFFF&} PARA SER
+Dialogue: 0,0:00:26.84,0:00:27.48,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}{\c&H00D4FF&}AMIGO{\c&HFFFFFF&}
+Dialogue: 0,0:00:27.48,0:00:27.98,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}{\c&H00D4FF&}AMIGO{\c&HFFFFFF&} EN SERIO
+Dialogue: 0,0:00:27.98,0:00:28.58,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}DE ESA PERSONA
+Dialogue: 0,0:00:28.58,0:00:29.18,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}Y PARA SER
+Dialogue: 0,0:00:29.18,0:00:29.54,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}UN {\c&H00D4FF&}AMIGO{\c&HFFFFFF&}
+Dialogue: 0,0:00:29.54,0:00:30.94,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}CERCANO {\c&H00D4FF&}200{\c&HFFFFFF&}
+Dialogue: 0,0:00:30.94,0:00:31.92,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}{\c&H00D4FF&}HORAS{\c&HFFFFFF&}
+Dialogue: 0,0:00:31.92,0:00:32.66,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}ENTONCES FIJATE
+Dialogue: 0,0:00:32.66,0:00:33.50,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}CÓMO VOS SOS
+Dialogue: 0,0:00:33.50,0:00:33.88,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}UN PIBE QUE
+Dialogue: 0,0:00:33.88,0:00:34.24,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}LABURA
+Dialogue: 0,0:00:34.24,0:00:34.57,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}QUE LE VA
+Dialogue: 0,0:00:34.57,0:00:34.97,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}BIEN EN EL
+Dialogue: 0,0:00:34.97,0:00:35.60,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}LABURO
+Dialogue: 0,0:00:36.28,0:00:36.90,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}QUE ENTRENA
+Dialogue: 0,0:00:36.90,0:00:37.30,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}QUE TIENE TODO
+Dialogue: 0,0:00:37.30,0:00:37.68,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}MÁS O MENOS
+Dialogue: 0,0:00:37.68,0:00:38.06,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}EN ORDEN
+Dialogue: 0,0:00:38.06,0:00:38.68,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}PERO QUÉ PASA
+Dialogue: 0,0:00:38.68,0:00:39.26,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}NO TENÉS {\c&H00D4FF&}AMIGOS{\c&HFFFFFF&}
+Dialogue: 0,0:00:39.26,0:00:39.88,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}POR FALTA DE
+Dialogue: 0,0:00:39.88,0:00:40.44,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}{\c&H00D4FF&}TIEMPO{\c&HFFFFFF&}
+Dialogue: 0,0:00:40.44,0:00:41.64,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}POR FALTA DE
+Dialogue: 0,0:00:41.64,0:00:42.30,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}{\c&H00D4FF&}MATEMÁTICAS{\c&HFFFFFF&}
+Dialogue: 0,0:00:42.30,0:00:42.76,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}NO PORQUE SEAS
+Dialogue: 0,0:00:42.76,0:00:43.28,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}UN PELOTUDO
+Dialogue: 0,0:00:43.28,0:00:43.64,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}PORQUE NADIE
+Dialogue: 0,0:00:43.64,0:00:44.36,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}TE QUIERA
+Dialogue: 0,0:00:44.36,0:00:45.06,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}PORQUE NECESITÁS VER
+Dialogue: 0,0:00:45.06,0:00:45.54,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}MÁS SEGUIDO A
+Dialogue: 0,0:00:45.54,0:00:45.82,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}CIERTAS
+Dialogue: 0,0:00:45.82,0:00:46.32,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}PERSONAS Y
+Dialogue: 0,0:00:46.32,0:00:46.74,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}JUNTARTE MÁS
+Dialogue: 0,0:00:46.74,0:00:47.22,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}CON CIERTAS
+Dialogue: 0,0:00:47.22,0:00:47.86,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}PERSONAS Y
+Dialogue: 0,0:00:47.86,0:00:48.22,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}PASAR {\c&H00D4FF&}TIEMPO{\c&HFFFFFF&}
+Dialogue: 0,0:00:48.22,0:00:48.64,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}DE {\c&H00D4FF&}CALIDAD{\c&HFFFFFF&} CON
+Dialogue: 0,0:00:48.64,0:00:49.14,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}ESAS PERSONAS
+Dialogue: 0,0:00:49.14,0:00:49.82,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}PARA PODER
+Dialogue: 0,0:00:49.82,0:00:50.24,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}LLEGAR A SER
+Dialogue: 0,0:00:50.24,0:00:51.28,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}{\c&H00D4FF&}AMIGO{\c&HFFFFFF&} EN SERIO
+Dialogue: 0,0:00:51.28,0:00:52.04,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}SI VOS SIMPLEMENTE TE
+Dialogue: 0,0:00:52.04,0:00:52.38,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}QUEDÁS EN LA
+Dialogue: 0,0:00:52.38,0:00:52.98,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}SUPERFICIALIDAD
+Dialogue: 0,0:00:52.98,0:00:53.48,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}CRUZARTE A UNA
+Dialogue: 0,0:00:53.48,0:00:53.90,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}PERSONA
+Dialogue: 0,0:00:53.90,0:00:54.98,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}SALUDARLA Y NO
+Dialogue: 0,0:00:54.98,0:00:55.32,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}VAS A SER
+Dialogue: 0,0:00:55.32,0:00:55.76,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}{\c&H00D4FF&}AMIGO{\c&HFFFFFF&}
+Dialogue: 0,0:00:55.76,0:00:56.06,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}NO VAN A
+Dialogue: 0,0:00:56.06,0:00:56.38,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}CAER DEL CIELO
+Dialogue: 0,0:00:56.38,0:00:57.44,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}LAS PROPUESTAS
+Dialogue: 0,0:00:57.44,0:00:57.86,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}NI VAS A
+Dialogue: 0,0:00:57.86,0:00:58.14,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}TENER UN
+Dialogue: 0,0:00:58.14,0:00:59.12,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}{\c&H00D4FF&}VÍNCULO{\c&HFFFFFF&} DE LA
+Dialogue: 0,0:00:59.12,0:00:59.48,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}NADA
+Dialogue: 0,0:00:59.48,0:00:59.93,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}¿TE ESPERÁS QUE
+Dialogue: 0,0:00:59.93,0:01:00.23,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}CAIGA DEL
+Dialogue: 0,0:01:00.23,0:01:00.70,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}CIELO?
+Dialogue: 0,0:01:00.70,0:01:01.28,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}NO TU VIDA SOCIAL
+Dialogue: 0,0:01:01.28,0:01:01.82,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}LA RESCATÁS
+Dialogue: 0,0:01:01.82,0:01:02.44,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}VOS
+Dialogue: 0,0:01:02.44,0:01:03.04,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}¿CÓMO?
+Dialogue: 0,0:01:03.04,0:01:03.36,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}COMPARTIENDO
+Dialogue: 0,0:01:03.36,0:01:03.78,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}ESPACIO Y
+Dialogue: 0,0:01:03.78,0:01:04.24,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}{\c&H00D4FF&}TIEMPO{\c&HFFFFFF&} DE
+Dialogue: 0,0:01:04.24,0:01:04.66,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}{\c&H00D4FF&}CALIDAD{\c&HFFFFFF&} CON
+Dialogue: 0,0:01:04.66,0:01:05.50,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}PERSONAS POR
+Dialogue: 0,0:01:05.50,0:01:05.90,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}UN {\c&H00D4FF&}TIEMPO{\c&HFFFFFF&}
+Dialogue: 0,0:01:05.90,0:01:07.14,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}DETERMINADO Y
+Dialogue: 0,0:01:07.14,0:01:08.04,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}MUCHA {\c&H00D4FF&}REPETICIÓN{\c&HFFFFFF&}
+Dialogue: 0,0:01:08.04,0:01:08.98,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}ENTONCES CUANDO
+Dialogue: 0,0:01:08.98,0:01:09.24,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}VAYAS AL
+Dialogue: 0,0:01:09.24,0:01:10.10,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}GIMNASIO
+Dialogue: 0,0:01:10.10,0:01:10.42,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}HABLALE A ESE
+Dialogue: 0,0:01:10.42,0:01:10.82,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}PIBE
+Dialogue: 0,0:01:10.82,0:01:11.16,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}INVITALO A
+Dialogue: 0,0:01:11.16,0:01:11.62,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}HACER ALGO AL
+Dialogue: 0,0:01:11.62,0:01:11.98,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}QUE TE CAE
+Dialogue: 0,0:01:11.98,0:01:12.42,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}BIEN
+Dialogue: 0,0:01:12.42,0:01:12.62,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}Y VA A
+Dialogue: 0,0:01:12.58,0:01:12.98,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}SER COMO CON
+Dialogue: 0,0:01:12.98,0:01:13.50,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}EL {\c&H00D4FF&}TIEMPO{\c&HFFFFFF&} VAN
+Dialogue: 0,0:01:13.50,0:01:13.86,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}A EMPEZAR A
+Dialogue: 0,0:01:13.86,0:01:14.74,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}HACER {\c&H00D4FF&}PLANES{\c&HFFFFFF&}
+Dialogue: 0,0:01:14.74,0:01:14.94,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}SE VAN A
+Dialogue: 0,0:01:14.80,0:01:15.36,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}IR JUNTANDO MÁS
+Dialogue: 0,0:01:15.36,0:01:15.78,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}{\c&H00D4FF&}TIEMPO{\c&HFFFFFF&} VAN A IR
+Dialogue: 0,0:01:15.78,0:01:16.24,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}PASANDO {\c&H00D4FF&}TIEMPO{\c&HFFFFFF&}
+Dialogue: 0,0:01:16.24,0:01:16.60,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}DE {\c&H00D4FF&}CALIDAD{\c&HFFFFFF&}
+Dialogue: 0,0:01:16.60,0:01:17.18,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}VAN A TENER
+Dialogue: 0,0:01:17.18,0:01:17.54,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}CADA VEZ MÁS
+Dialogue: 0,0:01:17.54,0:01:18.16,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}CHISTES INTERNOS
+Dialogue: 0,0:01:18.16,0:01:18.52,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}JODER
+Dialogue: 0,0:01:18.52,0:01:18.82,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}Y QUÉ VA
+Dialogue: 0,0:01:18.82,0:01:19.12,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}A PASAR CON
+Dialogue: 0,0:01:19.12,0:01:19.50,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}EL {\c&H00D4FF&}TIEMPO{\c&HFFFFFF&}
+Dialogue: 0,0:01:19.50,0:01:19.92,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}VAS A TENER
+Dialogue: 0,0:01:19.92,0:01:20.18,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}UN {\c&H00D4FF&}AMIGO{\c&HFFFFFF&}
+Dialogue: 0,0:01:20.18,0:01:21.04,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}CERCANO
+Dialogue: 0,0:01:21.04,0:01:21.50,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}BUENO
+Dialogue: 0,0:01:21.50,0:01:21.92,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}PRIMERO UN
+Dialogue: 0,0:01:21.92,0:01:22.56,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}{\c&H00D4FF&}AMIGO{\c&HFFFFFF&} CASUAL
+Dialogue: 0,0:01:22.56,0:01:22.82,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}DESPUÉS UN
+Dialogue: 0,0:01:22.82,0:01:23.44,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}{\c&H00D4FF&}AMIGO{\c&HFFFFFF&} EN SERIO
+Dialogue: 0,0:01:23.44,0:01:24.46,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}DESPUÉS UN {\c&H00D4FF&}AMIGO{\c&HFFFFFF&} CERCANO
+Dialogue: 0,0:01:24.46,0:01:25.38,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}LO MISMO
+Dialogue: 0,0:01:25.72,0:01:26.14,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}AL TIPO QUE
+Dialogue: 0,0:01:26.14,0:01:26.46,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}TE CAE BIEN
+Dialogue: 0,0:01:26.46,0:01:27.10,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}EN EL LABURO
+Dialogue: 0,0:01:27.10,0:01:27.60,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}NO BASTA CON
+Dialogue: 0,0:01:27.60,0:01:28.74,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}ESTAR LABURANDO
+Dialogue: 0,0:01:28.74,0:01:29.04,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}CON TENER
+Dialogue: 0,0:01:29.04,0:01:29.48,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}CONVERSACIONES
+Dialogue: 0,0:01:29.48,0:01:30.30,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}LABORALES
+Dialogue: 0,0:01:30.30,0:01:30.74,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}JODER
+Dialogue: 0,0:01:30.74,0:01:31.16,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}HABLAR
+Dialogue: 0,0:01:31.16,0:01:31.88,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}COMPARTIR
+Dialogue: 0,0:01:31.88,0:01:32.60,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}REÍRTE ASÍ ES
+Dialogue: 0,0:01:32.60,0:01:33.00,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}CÓMO SE
+Dialogue: 0,0:01:33.00,0:01:33.36,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}CONSTRUYEN LOS
+Dialogue: 0,0:01:33.36,0:01:34.20,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}{\c&H00D4FF&}VÍNCULOS{\c&HFFFFFF&}
+Dialogue: 0,0:01:34.40,0:01:35.16,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}Y ASÍ
+Dialogue: 0,0:01:35.16,0:01:35.46,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}SI ESTÁS
+Dialogue: 0,0:01:35.46,0:01:36.04,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}CONSTANTEMENTE
+Dialogue: 0,0:01:36.04,0:01:36.30,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}BUSCANDO
+Dialogue: 0,0:01:36.30,0:01:37.10,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}REPETIR {\c&H00D4FF&}TIEMPO{\c&HFFFFFF&}
+Dialogue: 0,0:01:37.10,0:01:37.85,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}Y VERTE CON
+Dialogue: 0,0:01:37.85,0:01:38.40,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}ESAS PERSONAS
+Dialogue: 0,0:01:38.40,0:01:38.68,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}QUE A VOS
+Dialogue: 0,0:01:38.68,0:01:39.08,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}TE CAEN BIEN
+Dialogue: 0,0:01:39.08,0:01:39.54,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}O QUE SENTÍS
+Dialogue: 0,0:01:39.54,0:01:40.60,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}QUE SON INTERESANTES
+Dialogue: 0,0:01:40.60,0:01:40.80,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}VAS A VER
+Dialogue: 0,0:01:40.80,0:01:41.26,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}CÓMO CON EL
+Dialogue: 0,0:01:41.26,0:01:42.10,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}{\c&H00D4FF&}TIEMPO{\c&HFFFFFF&} VAN A
+Dialogue: 0,0:01:42.10,0:01:42.64,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}IR CONSTRUYENDO
+Dialogue: 0,0:01:42.64,0:01:43.24,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}UN {\c&H00D4FF&}VÍNCULO{\c&HFFFFFF&}
+Dialogue: 0,0:01:43.24,0:01:43.82,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}PERO NECESITÁS
+Dialogue: 0,0:01:43.82,0:01:44.70,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}{\c&H00D4FF&}TIEMPO{\c&HFFFFFF&}
+Dialogue: 0,0:01:44.70,0:01:45.62,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}SON {\c&H00D4FF&}MATEMÁTICAS{\c&HFFFFFF&}
+Dialogue: 0,0:01:45.62,0:01:46.22,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}HACER {\c&H00D4FF&}AMIGOS{\c&HFFFFFF&}
+Dialogue: 0,0:01:46.22,0:01:47.48,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}COMO TE DIGO
+Dialogue: 0,0:01:47.48,0:01:47.96,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}MEDIANTE LAS
+Dialogue: 0,0:01:47.96,0:01:49.02,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}{\c&H00D4FF&}REPETICIONES{\c&HFFFFFF&}
+Dialogue: 0,0:01:49.02,0:01:49.60,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}QUE VOS VAS
+Dialogue: 0,0:01:49.60,0:01:50.14,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}FAMILIARIZANDO
+Dialogue: 0,0:01:50.14,0:01:50.64,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}A LAS PERSONAS
+Dialogue: 0,0:01:50.64,0:01:51.18,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}Y ES COMO
+Dialogue: 0,0:01:51.18,0:01:51.58,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}VA GENERANDO
+Dialogue: 0,0:01:51.58,0:01:52.48,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}ESE {\c&H00D4FF&}VÍNCULO{\c&HFFFFFF&}
+Dialogue: 0,0:01:52.48,0:01:52.96,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}ASÍ QUE
+Dialogue: 0,0:01:52.96,0:01:53.62,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}ANIMATE
+Dialogue: 0,0:01:53.62,0:01:54.00,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}PROPONÉ ESE
+Dialogue: 0,0:01:54.00,0:01:54.72,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}PLAN
+Dialogue: 0,0:01:54.72,0:01:55.14,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}PASÁ {\c&H00D4FF&}TIEMPO{\c&HFFFFFF&} DE
+Dialogue: 0,0:01:55.14,0:01:55.54,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}{\c&H00D4FF&}CALIDAD{\c&HFFFFFF&} CON LAS
+Dialogue: 0,0:01:55.54,0:01:55.90,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}PERSONAS
+Dialogue: 0,0:01:55.90,0:01:56.24,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}NO TE QUEDES
+Dialogue: 0,0:01:56.24,0:01:56.58,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}{\c&H00D4FF&}SOLO{\c&HFFFFFF&} EN EL
+Dialogue: 0,0:01:56.58,0:01:57.22,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}LABURO AHÍ
+Dialogue: 0,0:01:57.22,0:01:57.72,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}SIN HACER NADA
+Dialogue: 0,0:01:57.72,0:01:58.29,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}O CON LOS
+Dialogue: 0,0:01:58.29,0:01:58.72,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}AURICULARES NO
+Dialogue: 0,0:01:58.72,0:01:59.74,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}SIRVE
+Dialogue: 0,0:01:59.74,0:02:00.24,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}SALÍ A LA
+Dialogue: 0,0:02:00.24,0:02:00.57,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}VIDA {\c&H00D4FF&}REAL{\c&HFFFFFF&}
+Dialogue: 0,0:02:00.57,0:02:01.92,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}CONOCÉ GENTE
+Dialogue: 0,0:02:01.92,0:02:02.30,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}TENÉS QUE VER
+Dialogue: 0,0:02:02.30,0:02:02.70,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}A ESA GENTE
+Dialogue: 0,0:02:02.70,0:02:03.10,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}SEGUIDA Y
+Dialogue: 0,0:02:03.10,0:02:03.60,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}RECIÉN AHÍ VAS
+Dialogue: 0,0:02:03.60,0:02:04.46,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}A FORMAR UN
+Dialogue: 0,0:02:04.46,0:02:04.76,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}{\c&H00D4FF&}VÍNCULO{\c&HFFFFFF&}
+Dialogue: 0,0:02:04.76,0:02:05.72,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}PROFUNDO Y VAS
+Dialogue: 0,0:02:05.72,0:02:06.02,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}A TENER A
+Dialogue: 0,0:02:06.02,0:02:06.34,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}ESAS PERSONAS
+Dialogue: 0,0:02:06.34,0:02:07.08,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}CON QUIEN LE
+Dialogue: 0,0:02:07.08,0:02:07.48,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}PUEDAS CONTAR
+Dialogue: 0,0:02:07.48,0:02:08.62,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}LO QUE SEA
+Dialogue: 0,0:02:08.80,0:02:09.14,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}CON LAS CUALES
+Dialogue: 0,0:02:09.14,0:02:09.50,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}TE PASES HASTA
+Dialogue: 0,0:02:09.50,0:02:09.86,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}LAS {\c&H00D4FF&}3{\c&HFFFFFF&} DE
+Dialogue: 0,0:02:09.86,0:02:10.20,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}LA MAÑANA Y
+Dialogue: 0,0:02:10.20,0:02:11.22,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}PUEDAS LLAMARLAS Y
+Dialogue: 0,0:02:11.22,0:02:11.86,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}ASÍ
+Dialogue: 0,0:02:11.86,0:02:12.20,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}NO VAN A
+Dialogue: 0,0:02:12.20,0:02:12.86,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}CAER DEL CIELO
+Dialogue: 0,0:02:12.86,0:02:13.28,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}TENÉS QUE MOVER
+Dialogue: 0,0:02:13.28,0:02:13.86,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}EL ORTO
+Dialogue: 0,0:02:13.86,0:02:14.14,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}TE MANDO UN
+Dialogue: 0,0:02:14.14,0:02:15.06,Sub,,0,0,0,,{\fscx85\fscy85\t(0,90,\fscx100\fscy100)}FUERTE ABRAZO
