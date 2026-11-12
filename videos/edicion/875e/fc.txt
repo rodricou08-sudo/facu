@@ -1,0 +1,9 @@
+[0:v]delogo=x=8:y=1738:w=140:h=180:enable='lt(t,16.50)+gte(t,104.32)'[v0];
+[v0][1:v]overlay=0:0:enable='lt(t,16.50)'[v1];
+[v1][2:v]overlay=0:0:enable='gte(t,16.50)*lt(t,32.98)'[v2];
+[v2][3:v]overlay=0:0:enable='gte(t,32.98)*lt(t,45.36)'[v3];
+[v3][4:v]overlay=0:0:enable='gte(t,45.36)*lt(t,65.45)'[v4];
+[v4][5:v]overlay=0:0:enable='gte(t,65.45)*lt(t,88.10)'[v5];
+[v5][6:v]overlay=0:0:enable='gte(t,88.10)*lt(t,104.32)'[v6];
+[v6][7:v]overlay=0:0:enable='gte(t,104.32)',format=yuv420p[v];
+[0:a]loudnorm=I=-14:TP=-1.5:LRA=11,aresample=48000[a]
